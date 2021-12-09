@@ -1,6 +1,6 @@
 <Bug_report>
         <Title>Отсутствует кнопка "Forgot your password?" на странице ввода логина и пароля</Title>
-        <Step to reproduce>Заходим на сайт https://qa-internship-2021.redmadrobot.com/login</Step to reproduces>
-        <Expected result>Наличие кнопки "Forgot your password?"</Expected result>
-        <Actual result>Отсутствие кнопки "Forgot your password?"</Actual result>
+        <Steps>Заходим на сайт https://qa-internship-2021.redmadrobot.com/login</Steps>
+        <ER>Наличие кнопки "Forgot your password?"</ER>
+        <AR>Отсутствие кнопки "Forgot your password?"</AR>
 </Bug_report>
